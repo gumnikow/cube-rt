@@ -1,0 +1,13 @@
+{
+    "Version": "1.1",
+    "Data": {
+        "Source": "d:\\projects\\cube-rt\\ue5_cube_rt\\intermediate\\build\\win64\\unrealeditor\\inc\\ue5_cube_rt\\ue5_cube_rt.init.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "d:\\projects\\cube-rt\\ue5_cube_rt\\intermediate\\build\\win64\\ue5_cube_rteditor\\development\\engine\\sharedpch.engine.shadowerrors.h.pch",
+        "Includes": [
+            "d:\\projects\\cube-rt\\ue5_cube_rt\\intermediate\\build\\win64\\unrealeditor\\development\\ue5_cube_rt\\definitions.ue5_cube_rt.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

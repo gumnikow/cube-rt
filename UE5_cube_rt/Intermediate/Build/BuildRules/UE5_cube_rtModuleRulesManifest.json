@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"D:\\Projects\\cube-rt\\UE5_cube_rt\\Source\\UE5_cube_rt\\UE5_cube_rt.Build.cs",
+		"D:\\Projects\\cube-rt\\UE5_cube_rt\\Source\\UE5_cube_rt.Target.cs",
+		"D:\\Projects\\cube-rt\\UE5_cube_rt\\Source\\UE5_cube_rtEditor.Target.cs"
+	],
+	"EngineVersion": "5.0.1"
+}

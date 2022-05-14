@@ -1,0 +1,15 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-UE5_cube_rt.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"D:\Projects\cube-rt\UE5_cube_rt\Intermediate\Build\Win64\UE5_cube_rtEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"D:\Projects\cube-rt\UE5_cube_rt\Intermediate\Build\Win64\UnrealEditor\Development\UE5_cube_rt\UE5_cube_rt.cpp.obj"
+"D:\Projects\cube-rt\UE5_cube_rt\Intermediate\Build\Win64\UnrealEditor\Development\UE5_cube_rt\UE5_cube_rtGameModeBase.cpp.obj"
+"D:\Projects\cube-rt\UE5_cube_rt\Intermediate\Build\Win64\UnrealEditor\Development\UE5_cube_rt\UE5_cube_rt.init.gen.cpp.obj"
+"D:\Projects\cube-rt\UE5_cube_rt\Intermediate\Build\Win64\UnrealEditor\Development\UE5_cube_rt\UE5_cube_rtGameModeBase.gen.cpp.obj"
+"D:\Projects\cube-rt\UE5_cube_rt\Intermediate\Build\Win64\UnrealEditor\Development\UE5_cube_rt\Default.rc2.res"
+/OUT:"D:\Projects\cube-rt\UE5_cube_rt\Intermediate\Build\Win64\UnrealEditor\Development\UE5_cube_rt\UnrealEditor-UE5_cube_rt.lib"

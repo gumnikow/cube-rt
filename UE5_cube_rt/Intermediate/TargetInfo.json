@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "UE5_cube_rt",
+			"Path": "D:\\Projects\\cube-rt\\UE5_cube_rt\\Source\\UE5_cube_rt.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "UE5_cube_rtEditor",
+			"Path": "D:\\Projects\\cube-rt\\UE5_cube_rt\\Source\\UE5_cube_rtEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

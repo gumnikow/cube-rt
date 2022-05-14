@@ -1,0 +1,19 @@
+{
+    "Version": "1.1",
+    "Data": {
+        "Source": "d:\\projects\\cube-rt\\ue5_cube_rt\\source\\ue5_cube_rt\\ue5_cube_rtgamemodebase.cpp",
+        "ProvidedModule": "",
+        "PCH": "d:\\projects\\cube-rt\\ue5_cube_rt\\intermediate\\build\\win64\\ue5_cube_rteditor\\development\\engine\\sharedpch.engine.shadowerrors.h.pch",
+        "Includes": [
+            "d:\\projects\\cube-rt\\ue5_cube_rt\\intermediate\\build\\win64\\unrealeditor\\development\\ue5_cube_rt\\definitions.ue5_cube_rt.h",
+            "d:\\projects\\cube-rt\\ue5_cube_rt\\source\\ue5_cube_rt\\ue5_cube_rtgamemodebase.h",
+            "d:\\ue5\\ue_5.0\\engine\\source\\runtime\\engine\\classes\\gameframework\\gamemodebase.h",
+            "d:\\ue5\\ue_5.0\\engine\\source\\runtime\\engine\\classes\\engine\\serverstatreplicator.h",
+            "d:\\ue5\\ue_5.0\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\serverstatreplicator.generated.h",
+            "d:\\ue5\\ue_5.0\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\gamemodebase.generated.h",
+            "d:\\projects\\cube-rt\\ue5_cube_rt\\intermediate\\build\\win64\\unrealeditor\\inc\\ue5_cube_rt\\ue5_cube_rtgamemodebase.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
